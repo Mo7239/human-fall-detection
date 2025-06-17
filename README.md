@@ -97,4 +97,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ## 📧 Contact
 
-For any questions: [Mo7239 on GitHub](https://github.com/Mo7239)
+For any questions: [Linked-In]([https://github.com/Mo7239](https://www.linkedin.com/in/mohamed-wasef-789743233/))
